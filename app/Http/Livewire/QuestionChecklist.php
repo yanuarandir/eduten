@@ -74,6 +74,5 @@ class QuestionChecklist extends Component
         }
         
         
-        // dd($this->questions);
     }
 }

@@ -214,7 +214,6 @@ class ExamController extends Controller
     {
         $exam = Exam::findOrFail($id);
 
-        // dd($request->input('students'));
         $exam->users()->sync($request->input('students'));
 
         return redirect('/exams');

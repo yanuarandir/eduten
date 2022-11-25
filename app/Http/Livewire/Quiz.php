@@ -35,7 +35,6 @@ class Quiz extends Component
     {
         $exam = Exam::findOrFail($this->exam_id);
         $exam_questions = $exam->questions;
-        // dd($exam_questions);
         $this->total_question = $exam_questions->count();
 
         if($this->total_question >= $exam->total_question) {
@@ -61,7 +60,6 @@ class Quiz extends Component
                 $userAnswer = "";
                 $rightAnswer = Question::findOrFail($key)->answer;
                 $userAnswer = substr($value, strpos($value,'-')+1);
-                dd($rightAnswer, $userAnswer);
                 $bobot = 100 / $this->total_question;
                 $score = 0;
                 if($userAnswer == $rightAnswer){
