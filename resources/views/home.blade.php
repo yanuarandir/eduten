@@ -70,31 +70,9 @@
           <div class="col-md-3 mb-3">
             <div class="card">
               <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p class="card-text">Teknik Animasi 2D dan 3D</p>
               </div>
             </div>
-          </div>
-          <div class="col-md-3 mb-3">
-            <div class="card">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 mb-3">
-            <div class="card">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-3 mb-3">
-            <div class="card">
-              <div class="card-body">
-                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-              </div>
-            </div>
-          </div>
         </div>
       </div>
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#a2d9ff" fill-opacity="1" d="M0,224L80,229.3C160,235,320,245,480,218.7C640,192,800,128,960,96C1120,64,1280,64,1360,64L1440,64L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
@@ -106,28 +84,35 @@
       <div class="container">
         <div class="row text-center">
           <div class="col">
+            <p></p>
             <h2>Tentang</h2>
+            <p></p>
           </div>
         </div>
         <div class="row text-center">
           <div class="col">
-            <p>ZADA CEINDEA VICA SOEDJONO</p>
+            <p>Zada Ceindea Vica Soedjono</p>
             <p>19050974025</p>
             <p>S1 PTI 2019 A</p>
           </div>
           <div class="col">
-            <p>MUHAMMAD MIRZA ERLANGGA</p>
+            <p>Muhammad Mirza Erlangga</p>
             <p>19050974001</p>
             <p>S1 PTI 2019 A</p>
           </div>
           <div class="col">
-            <p>MADELIN CHRISTINA PURBA</p>
+            <p>Madelin Christina Purba</p>
             <p>19050974038</p>
             <p>S1 PTI 2019 A</p>
           </div>
           <div class="col">
-            <p>FARAH AKMALIA ROSE</p>
-            <p>19050974038</p>
+            <p>Farah Akmalia Rose</p>
+            <p>19050974011</p>
+            <p>S1 PTI 2019 A</p>
+          </div>
+          <div class="col">
+            <p>Yanuar Andi Rahman</p>
+            <p>19050974031</p>
             <p>S1 PTI 2019 A</p>
           </div>
         </div>
